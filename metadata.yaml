@@ -1,0 +1,28 @@
+_repo: Pictures-of-People_62700
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Gibson, Charles Dana
+    alias: Gibson, C. D. (Charles Dana)
+    birthdate: 1867
+    deathdate: 1944
+    gutenberg_agent_id: '26456'
+    url: http://www.gutenberg.org/2009/agents/26456
+    wikipedia: http://en.wikipedia.org/wiki/Charles_Dana_Gibson
+description: ''
+gutenberg_issued: '2020-07-19'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '62700'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'American wit and humor, Pictorial'
+- !lcsh 'Women -- Caricatures and cartoons'
+- !lcc 'NC'
+- !lcsh 'Caricatures and cartoons -- United States'
+- GITenberg
+title: Pictures of People
+url: http://www.gutenberg.org/ebooks/62700
